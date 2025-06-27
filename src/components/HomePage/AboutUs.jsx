@@ -11,16 +11,16 @@ const AboutUs = () => {
             <img src={images[1] || 'https://via.placeholder.com/500x400'} alt="About Us" className="relative rounded-lg shadow-lg" />
           </div>
           <div className="space-y-6">
-            <h2 id="AboutUs_2" className="text-4xl font-bold text-gray-900">Our Mission</h2>
-            <p id="AboutUs_3" className="text-lg text-gray-600">We believe in providing quality education that nurtures creativity, critical thinking, and personal growth. Our dedicated team of educators works tirelessly to create an engaging learning environment.</p>
+            <h2 id="AboutUs_2" className="text-4xl font-bold text-gray-900">Our Mission in Books</h2>
+            <p id="AboutUs_3" className="text-lg text-gray-600">We strive to provide the best curated content for our readers, fostering education and imagination.</p>
             <div className="grid grid-cols-2 gap-4">
               <div className="p-4 bg-blue-50 rounded-lg">
-                <h3 id="AboutUs_4" className="text-xl font-semibold text-blue-600">500+</h3>
-                <p id="AboutUs_5" className="text-gray-600">Students Enrolled</p>
+                <h3 id="AboutUs_4" className="text-xl font-semibold text-blue-600">10000+</h3>
+                <p id="AboutUs_5" className="text-gray-600">Books Available</p>
               </div>
               <div className="p-4 bg-blue-50 rounded-lg">
-                <h3 id="AboutUs_6" className="text-xl font-semibold text-blue-600">50+</h3>
-                <p id="AboutUs_7" className="text-gray-600">Expert Teachers</p>
+                <h3 id="AboutUs_6" className="text-xl font-semibold text-blue-600">500+</h3>
+                <p id="AboutUs_7" className="text-gray-600">Happy Authors</p>
               </div>
             </div>
           </div>
